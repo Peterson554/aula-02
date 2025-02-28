@@ -7,8 +7,8 @@
 <p width="100%" align ="center">
     <img src="./img/8-10-2018.png" width="33%">
 </p>
-<p id="descricaoProjeto">
-<P id="StatusProduto">
+
+<p id="descricaoProjeto"></p>
 
 ## Descrição do Projeto 
 
@@ -25,7 +25,14 @@ Além disso, um README completo deve fornecer informações sobre como colaborar
 
 <ul>
 <li><a href = "#descricaoProjeto">Descrição do Projeto</a></li>
-<li><a href = "#StatusProduto">Status Produto</a></li>
+<li><a href = "#StatusProjeto">Status Projeto</a></li>
+<li><a href = "#features">Features</a></li>
+<li><a href = "#Prerequisitos">Pre Requisitos</a></li>
+<li><a href = "#ExecutaroProjeto">Executar Projeto</a></li>
+<li><a href = "#Mapadoprojeto">Mapa do Projeto</a></li>
+<li><a href = "#TecnologiaUtilizadas">Tecnologia Utilizadas</a></li>
+
+
 </ul>
 
 <!-- <p align="center"> Centralizar a Lista
@@ -39,5 +46,56 @@ Além disso, um README completo deve fornecer informações sobre como colaborar
 ## Status do Projeto 
 
 <h4 align="center">
-    Em construção ::rocket::
+    Em construção 🚀🚀🚀
 </h4>
+
+<P id="Features"></p>
+
+## Features
+- [x] README com Markdown
+- [x] README com HTML
+- [x]  Badge
+
+<P id="Prerequisitos"></p>
+
+## Pré Requisitos 
+
+- [VSCODE](https://code.visualstudio.com/)
+- [GIT](https://git-scm.com/)
+
+<P id="ExecutaroProjeto"></p>
+
+## Executar o Projeto
+
+```bash
+ 
+# Clone do repositorio
+git clone <path do repositorio >
+
+# Acesse a pasta do projeto via terminal 
+cd meu-projeto
+
+# Abrir o VsCode no <path do repositorio>
+code . 
+
+```
+<P id="Mapadoprojeto"></p>
+
+## Mapa do Projeto
+
+```bash
++---img             //Contem as imagens do readme
++---temp            //Paste temp para gerar tree
+    +---temp-1      //Paste temp para gerar tree
+    +---temp-2      //Paste temp para gerar tree
++---temp copy       //Paste temp para gerar tree
++---temp-2          //Paste temp para gerar tree
+```
+<p id="TecnologiaUtilizadas"></p>
+
+## Tecnologia Utilizadas
+
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [MARKDOWN](https://www.markdownguide.org/)
+
+
